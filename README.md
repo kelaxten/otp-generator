@@ -53,8 +53,8 @@ sudo apt-get install python3 python3-tk
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/YourUsername/otp-generator-gui.git
-   cd otp-generator-gui
+   git clone https://github.com/kelaxten/otp-generator.git
+   cd otp-generator
    ```
 
 2. **(Optional) Create a virtual environment**:
@@ -74,10 +74,10 @@ sudo apt-get install python3 python3-tk
 
 - **Windows**:
   1. Open Command Prompt or PowerShell.
-  2. Navigate (`cd`) to the directory containing `otp_gui.py`.
+  2. Navigate (`cd`) to the directory containing `otp_gen.py`.
   3. Run:  
      ```shell
-     python otp_gui.py
+     python otp_gen.py
      ```
   4. The GUI window should appear.
 
@@ -86,13 +86,13 @@ sudo apt-get install python3 python3-tk
   2. Navigate (`cd`) to the project directory.
   3. Run:  
      ```bash
-     python3 otp_gui.py
+     python3 otp_gen.py
      ```
   4. The GUI window should appear.
 
 ### 2. Double-Click (Windows Only)
 
-If you have the `.py` extension associated with Python, you can just **double-click** `otp_gui.py`. However, to see error messages (if any), running from the command line is usually more informative.
+If you have the `.py` extension associated with Python, you can just **double-click** `otp_gen.py`. However, to see error messages (if any), running from the command line is usually more informative.
 
 ---
 
